@@ -1,0 +1,35 @@
+{
+    "cSpell.words": [
+        "finalproject"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\maste\\Coding\\Javafx-sdk\\javafx-sdk-23.0.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\maste\\Coding\\Javafx-sdk\\javafx-sdk-23.0.1\\lib\\javafx.base.jar",
+        "c:\\Users\\maste\\Coding\\Javafx-sdk\\javafx-sdk-23.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\maste\\Coding\\Javafx-sdk\\javafx-sdk-23.0.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\maste\\Coding\\Javafx-sdk\\javafx-sdk-23.0.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\maste\\Coding\\advanced Java Workspace\\EmployeeManager_Oct_2_2024\\mysql-connector-j-9.1.0.jar",
+        "c:\\Users\\maste\\Coding\\Javafx-sdk\\javafx-sdk-23.0.1\\lib\\javafx.media.jar",
+        "c:\\Users\\maste\\Coding\\Javafx-sdk\\javafx-sdk-23.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\maste\\Coding\\Javafx-sdk\\javafx-sdk-23.0.1\\lib\\javafx.web.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "employees",
+            "database": "employees",
+            "username": "anonymous",
+            "password": "guest"
+        }
+    ]
+}
