@@ -1,4 +1,4 @@
-//package finalproject;
+
 
 import javax.swing.*;
 import java.awt.*;
@@ -12,9 +12,9 @@ import java.util.logging.Level;
 import java.util.logging.Handler;
 import java.text.NumberFormat;
 import java.text.DecimalFormat;
-import java.io.Serializable;
+//import java.io.Serializable;
 
-public class EmployeeManager extends JFrame implements Serializable {
+public class EmployeeManager extends JFrame {
     private static Logger log = Logger.getLogger(EmployeeManager.class.getName());
     // private static Logger log = Logger.getLogger("InfoLogging");
 

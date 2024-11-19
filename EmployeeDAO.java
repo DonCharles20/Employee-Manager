@@ -21,7 +21,7 @@ public class EmployeeDAO {
         try {
             //Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
             Class.forName("com.mysql.cj.jdbc.Driver");//Note:Doneddy's code has com.mysql.jdbc.Driver for mysql
-            Connection connection = DriverManager.getConnection(url, username, password);
+            DriverManager.getConnection(url, username, password);
         } catch (ClassNotFoundException cnfex) {
             System.err.println("Failed to load JDBC/ODBC driver.Jack Wrote This!!!");
             cnfex.printStackTrace();
